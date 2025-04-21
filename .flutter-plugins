@@ -1,0 +1,12 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/Users/aljonnovelo/.pub-cache/hosted/pub.dev/cloud_firestore-4.7.1/
+cloud_firestore_web=/Users/aljonnovelo/.pub-cache/hosted/pub.dev/cloud_firestore_web-3.5.1/
+firebase_auth=/Users/aljonnovelo/.pub-cache/hosted/pub.dev/firebase_auth-4.6.1/
+firebase_auth_web=/Users/aljonnovelo/.pub-cache/hosted/pub.dev/firebase_auth_web-5.5.1/
+firebase_core=/Users/aljonnovelo/.pub-cache/hosted/pub.dev/firebase_core-2.13.0/
+firebase_core_web=/Users/aljonnovelo/.pub-cache/hosted/pub.dev/firebase_core_web-2.5.0/
+permission_handler=/Users/aljonnovelo/.pub-cache/hosted/pub.dev/permission_handler-10.2.0/
+permission_handler_android=/Users/aljonnovelo/.pub-cache/hosted/pub.dev/permission_handler_android-10.2.2/
+permission_handler_apple=/Users/aljonnovelo/.pub-cache/hosted/pub.dev/permission_handler_apple-9.0.8/
+permission_handler_windows=/Users/aljonnovelo/.pub-cache/hosted/pub.dev/permission_handler_windows-0.1.2/
+qr_code_scanner=/Users/aljonnovelo/.pub-cache/hosted/pub.dev/qr_code_scanner-1.0.1/

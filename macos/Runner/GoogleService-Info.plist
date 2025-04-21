@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>309718406483-vfpuvt3ctdq1p8oq9i0q00a33496t06d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.309718406483-vfpuvt3ctdq1p8oq9i0q00a33496t06d</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCc8Z8APYyrRHk6pYi54l85ihlskzrTFb0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>309718406483</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.amanteContaoiNoveloOlipas.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>cmsc23-project-c0452</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cmsc23-project-c0452.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:309718406483:ios:888e89895dd52985d3fda6</string>
+</dict>
+</plist>

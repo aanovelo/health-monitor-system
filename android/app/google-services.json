@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "309718406483",
+    "project_id": "cmsc23-project-c0452",
+    "storage_bucket": "cmsc23-project-c0452.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309718406483:android:36c1f98659299b96d3fda6",
+        "android_client_info": {
+          "package_name": "com.example.amante_contaoi_novelo_olipas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309718406483-lqpoa0usdtuo8qh0uokgl5vohsgvh43e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfBj0-uvmJ3hPgo9-k2U85EXfz-7snI5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309718406483-lqpoa0usdtuo8qh0uokgl5vohsgvh43e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "309718406483-to0pau0n6i7qo73v1hgoda94k54mqoqi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.amanteContaoiNoveloOlipas"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
